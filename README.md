@@ -1,4 +1,4 @@
-# 📧 Content Search & Purge Script (Universal)
+# 📧 Microsoft purview Content Search & Auto Purge Script
 
 **Version:** 3.1.0  
 **Author:** Mohsen Heidari  
