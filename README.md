@@ -48,7 +48,7 @@ This PowerShell script automates **Microsoft Purview (Security & Compliance)** c
 ---
 
 ## ✅ Usage
-1. Launch PowerShell and run:
+1. Launch PowerShell and First run as admin:
    ```powershell
    .\AutoPurge.ps1
    ```
