@@ -1,6 +1,6 @@
 # 📧 Microsoft purview Content Search & Auto Purge Script
 
-**Version:** 3.1.0  
+**Version:** 3.0.0  
 **Author:** Mohsen Heidari  
 **Contact:** abarkakia@gmail.com  
 
