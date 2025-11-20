@@ -50,7 +50,7 @@ This PowerShell script automates **Microsoft Purview (Security & Compliance)** c
 ## ✅ Usage
 1. Launch PowerShell and run:
    ```powershell
-   .\ContentSearchPurge.ps1
+   .\AutoPurge.ps1
    ```
 2. Sign in with your **Purview-enabled admin account**.
 3. Provide inputs when prompted:
